@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+h2 {
+    color: red;
+}
+h3 {
+    color: aliceblue;
+}
+li {
+    color: red;
+}
+p {
+    color: red;
+}
+img {
+    height: 250px;
+}
+#Contact {
+        color: aliceblue;
+}
+#About {
+    color: red;
+}
